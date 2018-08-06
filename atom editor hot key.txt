@@ -1,0 +1,5 @@
+1. Duplicate Current Line  -->  ctrl + shift + D
+2. Delete Current Line --> OS + shift + K
+3. Multiple cursors --> ctrl + click
+4. Move Previous Line --> OS + P
+5. Move Next Line --> OS + N
