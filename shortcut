@@ -51,7 +51,9 @@ option + left/right		//move to beginning/end of word
 
 command + D  			//Select the next matching characters
 command + shift + click //Multiple cursors
- 
+
+command + i             // run the code
+
 Fuzzy Find Files	⌘-t
 Find Open File	⌘-b
 Find Modified, Untracked (git) File	⌘-⇧-b
@@ -67,6 +69,3 @@ command + F			//Find String in Current File
 command + shift + F	//Find String in All Project Files
 Find Next Matching String	⌘-g
 Find Previous Matching String	⇧-⌘-g
-Select Next Matching String	⌘-d
-Select All Matching Strings	⌃-⌘-g
-Replace String in Current File	⌥-⌘-f
