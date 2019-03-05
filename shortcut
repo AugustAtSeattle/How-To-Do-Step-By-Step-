@@ -1,0 +1,72 @@
+
+
+
+command + n create a new window
+command + w close current window
+command + t create a new tab
+
+
+command + space search app on mac
+
+command + tab 			//next window
+command + shift + tab 	//previous window
+command + option + right//control + tab			//next tab
+command + option + left //control + shift + tab 	//previous tab
+
+command
+
+fn + left/ right		//go to top/bottom
+fn + up/down			//go to next/previous several lines
+
+chrome
+----------------------------------------------------------
+Command + L	// type and search
+
+Command + up/down // go top/bottom of pages
+Option + up/down // go next/previous page
+
+
+Finder
+----------------------------------------------------------
+⌘↑ Open the folder that contains the current folder.
+⌘⌃↑ Open the folder that contains the current folder in a new window.
+⌘↓ Open the selected item.
+
+⌘⇧D Open the desktop folder.
+⌘⇧G Open a Go to Folder window.
+⌘⇧H Open the Home folder of the current OS X user account.
+
+Atom
+----------------------------------------------------------
+command + shift + D 	//duplicate line
+control + shift + K		// delete current line
+command + enter //new line
+command + control + up  //Move Line Up
+command + control + down //Move Line Down
+
+control + G				// go to lines
+control + M				// Go to Matching Bracket
+option + left/right		//move to beginning/end of word
+
+
+command + D  			//Select the next matching characters
+command + shift + click //Multiple cursors
+ 
+Fuzzy Find Files	⌘-t
+Find Open File	⌘-b
+Find Modified, Untracked (git) File	⌘-⇧-b
+Open Tree View	⌃-0
+Toggle Tree View	⌘-\
+Add a File	a
+Move a File	m
+Delete a File	⌫
+Reopen Last File	⌘-⇧-t
+
+
+command + F			//Find String in Current File
+command + shift + F	//Find String in All Project Files
+Find Next Matching String	⌘-g
+Find Previous Matching String	⇧-⌘-g
+Select Next Matching String	⌘-d
+Select All Matching Strings	⌃-⌘-g
+Replace String in Current File	⌥-⌘-f
