@@ -1,0 +1,11 @@
+search a file           command + shift + o
+auto completion         control + space
+
+hide/show debuger       command + option + y
+hide/show navigator     command + 0
+hide/show utilities     command + option + 0
+
+format on selected text command + i
+go to line              command + l
+open drop down methods  control + 6
+open drop down files    control + 5
